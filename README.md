@@ -1,4 +1,4 @@
 ## markdown_picture_bed
 
-Typora + PicGO  实现用Github笔记图片
+Typora + PicGO  + Github笔记图片
 
